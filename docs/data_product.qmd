@@ -20,5 +20,5 @@ Actuarist AI website
 
 -   Repository name: actuaristai_github_io
 -   Author: Actuarist AI
--   Repository location: git@github.com:actuaristai/actuaristai_github_io.git
+-   Repository location: git@github.com:actuaristai/actuaristai.github.io.git
 

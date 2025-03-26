@@ -4,7 +4,7 @@
 set shell:= ["pwsh.exe", "-c"]
 
 PROJECT_NAME:= "actuaristai_github_io"
-REMOTE_REPO := "git@github.com:actuaristai/actuaristai_github_io.git"
+REMOTE_REPO := "git@github.com:actuaristai/actuaristai.github.io.git"
 
 
 POWERSHELL_SHEBANG := if os() == 'windows' {
