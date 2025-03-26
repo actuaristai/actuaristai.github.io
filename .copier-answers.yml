@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: '1.1'
+_src_path: git@github.com:actuaristai/template.git
+email: human@actuarist.ai
+full_name: Actuarist AI
+project_name: actuaristai_github_io
+project_short_description: Actuarist AI website
+remote_repository: git@github.com:actuaristai/actuaristai_github_io.git

@@ -1,0 +1,24 @@
+---
+title: "actuaristai_github_io"
+format: 
+    html:
+        number-sections: true
+        html-table-processing: none
+jupyter: actuaristai_github_io # uv run python -m ipykernel install --user --name actuaristai_github_io
+echo: false
+execute:
+  freeze: auto  # re-render only when source changes
+---
+
+# Executive Summary
+
+This document summarises the actuaristai_github_io ...
+
+Actuarist AI website
+
+## Key info
+
+-   Repository name: actuaristai_github_io
+-   Author: Actuarist AI
+-   Repository location: git@github.com:actuaristai/actuaristai_github_io.git
+
