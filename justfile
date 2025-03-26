@@ -144,6 +144,10 @@ cd-release VERSION:
 	git branch -d release-{{VERSION}}
 	git push
 
-
+# publish to github pages
+cd-publish:
+	uvx pre-commit uninstall # bug workaround to uninstall pre-commit before publishing
+	quarto publish gh-pages
+	uvx pre-commit install # install it again after publishing
 
 
