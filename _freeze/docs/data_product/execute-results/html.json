@@ -1,0 +1,12 @@
+{
+  "hash": "8cdbab05a6939c01ddd9ba07f5709e58",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"actuaristai_github_io\"\nformat: \n    html:\n        number-sections: true\n        html-table-processing: none\njupyter: actuaristai_github_io # uv run python -m ipykernel install --user --name actuaristai_github_io\necho: false\nexecute:\n  freeze: auto  # re-render only when source changes\n---\n\n\n# Executive Summary\n\nThis document summarises the actuaristai_github_io ...\n\nActuarist AI website\n\n## Key info\n\n-   Repository name: actuaristai_github_io\n-   Author: Actuarist AI\n-   Repository location: git@github.com:actuaristai/actuaristai_github_io.git\n\n",
+    "supporting": [
+      "data_product_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
