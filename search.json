@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "docs/data_product.html",
+    "href": "docs/data_product.html",
+    "title": "actuaristai_github_io",
+    "section": "",
+    "text": "This document summarises the actuaristai_github_io …\nActuarist AI website\n\n\n\nRepository name: actuaristai_github_io\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/actuaristai.github.io.git"
+  },
+  {
+    "objectID": "docs/data_product.html#key-info",
+    "href": "docs/data_product.html#key-info",
+    "title": "actuaristai_github_io",
+    "section": "",
+    "text": "Repository name: actuaristai_github_io\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/actuaristai.github.io.git"
+  },
+  {
     "objectID": "reference/index.html",
     "href": "reference/index.html",
     "title": "Function reference",
@@ -20,20 +34,6 @@
       "Reference API",
       "Function reference"
     ]
-  },
-  {
-    "objectID": "docs/data_product.html",
-    "href": "docs/data_product.html",
-    "title": "actuaristai_github_io",
-    "section": "",
-    "text": "This document summarises the actuaristai_github_io …\nActuarist AI website\n\n\n\nRepository name: actuaristai_github_io\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/actuaristai.github.io.git"
-  },
-  {
-    "objectID": "docs/data_product.html#key-info",
-    "href": "docs/data_product.html#key-info",
-    "title": "actuaristai_github_io",
-    "section": "",
-    "text": "Repository name: actuaristai_github_io\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/actuaristai.github.io.git"
   },
   {
     "objectID": "reference/hello.html",
